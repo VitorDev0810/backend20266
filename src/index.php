@@ -1,5 +1,3 @@
-<h1>Back-End</h1>
-
-<?php
-
-phpinfo();
+<h1>Index</h1>
+ <?php
+ phpinfo();
